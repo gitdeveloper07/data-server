@@ -1,5 +1,5 @@
 {
-  "ads_flag": "off",
+  "ads_flag": "on",
   "forcefully_download": "off",
   "Packagename": "com.gbapk.abga.pro",
   "APP_Id": "ca-app-pub-3940256099942544~3347511713",
@@ -9,8 +9,8 @@
   "Rewards_ads_key": "ca-app-pub-3940256099942544/5224354917",
   "Rewarded_Interstitial_Keys": "x",
   "Interstitial_Ads_Keys": "ca-app-pub-3940256099942544/1033173712",
-  "Interstitial_Front_Counter_Flag": 1,
-  "Interstitial_Back_Counter_Flag": 1,
+  "Interstitial_Front_Counter_Flag": 3,
+  "Interstitial_Back_Counter_Flag": 5,
   "Ads_Off_Version": [],
   "success": true,
   "message": "Data Available"
