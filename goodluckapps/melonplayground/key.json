@@ -13,5 +13,8 @@
   "Interstitial_Back_Counter_Flag": 1,
   "Ads_Off_Version": [],
   "success": true,
-  "message": "Data Available"
+  "message": "Data Available",
+  "gift_flag": "on",
+  "gift_tab": "on",
+  "gift_url": "https://www.atmequiz.com/start"
 }
