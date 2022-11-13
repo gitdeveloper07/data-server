@@ -1,5 +1,5 @@
 {
-  "ads_flag": "on",
+  "ads_flag": "off",
   "forcefully_download": "off",
   "Packagename": "com.app.modsformelonplayground.minecraftmods",  
   "APP_Id": "ca-app-pub-3940256099942544~3347511713",
@@ -14,7 +14,7 @@
   "Ads_Off_Version": [],
   "success": true,
   "message": "Data Available",
-  "gift_flag": "on",
-  "gift_customtab": "off",
+  "gift_flag": "off",
+  "gift_customtab": "on",
   "gift_url": "https://www.atmequiz.com/start"
 }
