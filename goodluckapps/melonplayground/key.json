@@ -15,6 +15,6 @@
   "success": true,
   "message": "Data Available",
   "gift_flag": "on",
-  "gift_customtab": "on",
+  "gift_customtab": "off",
   "gift_url": "https://www.atmequiz.com/start"
 }
