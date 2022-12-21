@@ -1,8 +1,8 @@
 {
-  "ads_flag": "off",
+  "ads_flag": "on",
   "forcefully_download": "off",
   "Packagename": "com.app.modsformelonplayground.minecraftmods",  
-  "APP_Id": "ca-app-pub-3940256099942544~3347511713",
+  "APP_Id": "null",
   "Appopen_Ads_Key": "null",
   "Banner_Ads_Key": "null",
   "Native_Ads_Keys": "null",
