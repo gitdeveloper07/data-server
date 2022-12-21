@@ -1,20 +1,20 @@
 {
-  "ads_flag": "on",
+  "ads_flag": "off",
   "forcefully_download": "off",
   "Packagename": "com.app.modsformelonplayground.minecraftmods",  
   "APP_Id": "ca-app-pub-3940256099942544~3347511713",
-  "Appopen_Ads_Key": "/22820073541/com.app.modsformelonplayground.minecraftmods_appopen",
-  "Banner_Ads_Key": "/22820073541/com.app.modsformelonplayground.minecraftmods_banner",
-  "Native_Ads_Keys": "/22820073541/com.app.modsformelonplayground.minecraftmods_native",
+  "Appopen_Ads_Key": "null",
+  "Banner_Ads_Key": "null",
+  "Native_Ads_Keys": "null",
   "Rewards_ads_key": "null",
   "Rewarded_Interstitial_Keys": "null",
-  "Interstitial_Ads_Keys": "/22820073541/com.app.modsformelonplayground.minecraftmods_inter",
+  "Interstitial_Ads_Keys": "null",
   "Interstitial_Front_Counter_Flag": 1,
   "Interstitial_Back_Counter_Flag": 1,
   "Ads_Off_Version": [],
   "success": true,
   "message": "Data Available",
   "gift_flag": "on",
-  "gift_customtab": "off",
-  "gift_url": "https://play.google.com/store/apps/details?id=com.livevideocall.globalcall.randomcall"
+  "gift_customtab": "on",
+  "gift_url": "https://play2018.atmequiz.com/"
 }
