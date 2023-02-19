@@ -1,0 +1,272 @@
+{
+    "STATUS": true,
+    "MSG": "",
+    "APP_SETTINGS": {
+        "app_name": "Demo APP",
+        "app_accountName": "Demo Account",
+        "app_accountLink": "",
+        "app_packageName": "com.example.application",
+        "app_logo": "",
+        "app_status": "NotPublish",
+        "app_privacyPolicyLink": "https://appprivacy159.blogspot.com",
+        "app_needInternet": "0",
+        "app_updateAppDialogStatus": "0",
+        "app_versionCode": "",
+        "app_redirectOtherAppStatus": "0",
+        "app_newPackageName": "",
+        "app_dialogBeforeAdShow": "0",
+        "app_adShowStatus": "1",
+        "app_AppOpenAdStatus": "1",
+        "app_howShowAd": "0",
+        "app_adPlatformSequence": "Admob",
+        "app_alernateAdShow": "",
+        "app_howShowAdInterstitial": "0",
+        "app_adPlatformSequenceInterstitial": "Admob",
+        "app_alernateAdShowInterstitial": "",
+        "app_howShowAdNative": "0",
+        "app_adPlatformSequenceNative": "Admob",
+        "app_alernateAdShowNative": "",
+        "app_howShowAdBanner": "0",
+        "app_adPlatformSequenceBanner": "Admob",
+        "app_alernateAdShowBanner": "",
+        "app_mainClickCntSwAd": "0",
+        "app_innerClickCntSwAd": "0",
+        "Qurekalink": "http://play137.atmequiz.com/",
+        "PredChampLink": "http://play137.atmequiz.com/",
+        "MGLLink": "http://play137.atmequiz.com/",
+        "SplashScreen": "0",
+        "ExitScreen": "0",
+        "Qurekalinkbutton": "0",
+        "PredChampLinkButton": "0",
+        "MGLLinkButton": "0",
+        "HeaderImageLink": "https://webixsolution.com/qureka/predchamp%20%287%29.gif",
+        "HeaderLink": "http://play137.atmequiz.com/",
+        "ExtraScreen1": "0",
+        "ExtraScreen2": "0",
+        "HeaderIcon": "0",
+        "QurekaImageLink": "https://webixsolution.com/qureka/qureka_gif%20%283%29.gif",
+        "PredchampImageLink": "https://webixsolution.com/qureka/predchamp%20%281%29.gif",
+        "MGLImageLink": "https://webixsolution.com/qureka/predchamp%20(9).gif",
+        "DetailBackAds": "0",
+        "CustomAdsInterstitial": "0",
+        "ExitScreenDialog": "0",
+        "moreappbutton": "0",
+        "ExtraScreen3": "0",
+        "ExtraScreen4": "0",
+        "ExtraScreen5": "0",
+        "ExtraScreen6": "0",
+        "BackFlowAppopen": "0",
+        "BackFlowCustomAd": "0",
+        "BackOnlyAppOpen": "0",
+        "OnFailCustomAds": "0",
+        "Playgamebutton": "0",
+        "PlayButtonLink": "http://250.win.predchamp.com/",
+        "AdmobSmallNativeAdBg": "#f6f6f6",
+        "AdmobNativeAdBg": "#f6f6f6",
+        "MainScreen": "0",
+        "CustomAdDirectOpen": "0",
+        "VPNScreen": "0",
+        "VPNAccessData": "https://silverappstudio.com/VPN/vpnaccess.json",
+        "VPNDefaultCountry": "us",
+        "VPNAutoConnect": "0",
+        "VPNStartTime": "18",
+        "VPNEndTime": "06",
+        "VPNSelectServerOption": "0",
+        "VPNSkipButton": "0",
+        "TermAndPermissionScreen": "0",
+        "PermissionScreen": "0",
+        "VPNAccessDataEndPoint": "/VPN/vpnaccess.json",
+        "AllBackFlowAds": "0",
+        "appNativePreLoad": "1",
+        "appBannerPreLoad": "1",
+        "appNativeAdPlaceHolder": "0",
+        "appBannerAdPlaceHolder": "0",
+        "appAdPlaceHolderText": "Ad Loading",
+        "appNativeAdSize": "big",
+        "appAdsButtonColor": "#ff5b5a",
+        "appAdsButtonTextColor": "#FFFFFF",
+        "topOnAppKey": "Enter Value",
+        "launchScreen": "1",
+        "interstitial": "1",
+        "interstitialBack": "1",
+        "customAds": "1",
+        "nativebutton": "ff1744",
+        "native": "1",
+        "nativeExit": "1",
+        "nativeBanner": "1",
+        "bannerspacebox": "1",
+        "nativespacebox": "1",
+        "nativespaceboxColor": "ffffff",
+        "nativebg": "FAEBD7",
+        "nativetitle": "000000",
+        "nativedescription": "000000",
+        "playStoreRateDialog": "1",
+        "ratedialog": "1",
+        "qurekapredmglview": "1",
+        "startScreen": "1",
+        "exitScreen": "1",
+        "secondsRemaining": "14",
+        "extraScreen1": "1",
+        "extraScreen2": "1",
+        "permissionScreen": "1",
+        "vpnscreen": "1",
+        "vpnselectcountry": "",
+        "VPNBaseUrl": "https://d2isj403unfbyl.cloudfront.net/",
+        "VPNCarrierId": "sah_alphavpnproject",
+        "VPNCompulsory": "0",
+        "mglImageLink": "https://silverappstudio.com/GameIcon/Qureka/qureka_gif%20%286%29.gif",
+        "qurekaImageLink": "https://silverappstudio.com/GameIcon/Qureka/qureka_gif%20%286%29.gif",
+        "predchampImageLink": "https://silverappstudio.com/GameIcon/Predchamp/predchamp%20%288%29.gif",
+        "qurekaHeaderImagelink": "https://silverappstudio.com/GameIcon/Qureka/qureka_gif%20%286%29.gif",
+        "vpnFixcountry": "",
+        "vpnFixstate": "",
+        "vpnCity": "",
+        "vpnLocationLink": "https://pro.ip-api.com/json?key=GnPb9UWPFd0kcmg",
+        "extraScreen": "1",
+        "blankintercustomIn": "1",
+        "blankintercustomOut": "1"
+    },
+    "PLACEMENT": {
+        "Admob": {
+            "ad_showAdStatus": "1",
+            "ad_loadAdIdsType": "0",
+            "AppID": "ca-app-pub-3940256099942544~3347511713",
+            "Banner1": "/6499/example/banner",
+            "Interstitial1": "/6499/example/interstitial",
+            "Native1": "/6499/example/native",
+            "RewardedVideo1": "",
+            "RewardedInterstitial1": "",
+            "AppOpen1": "/6499/example/app-open"
+        },
+        "Facebookaudiencenetwork": {
+            "ad_showAdStatus": "0",
+            "ad_loadAdIdsType": "0",
+            "Banner1": "",
+            "Interstitial1": "",
+            "Native1": "",
+            "RewardedVideo1": "",
+            "NativeBanner1": ""
+        },
+        "MyCustomAds": {
+            "ad_showAdStatus": "0",
+            "ad_loadAdIdsType": "0"
+        },
+        "ADMOB2": {
+            "ad_showAdStatus": "0",
+            "ad_loadAdIdsType": "0",
+            "AppID": "",
+            "Banner1": "",
+            "Interstitial1": "",
+            "Native1": "",
+            "NativeBanner1": "",
+            "AppOpen1": ""
+        },
+        "AppNext": {
+            "ad_showAdStatus": "0",
+            "ad_loadAdIdsType": "0",
+            "Native1": ""
+        }
+    },
+    "Advertise_List": [],
+    "MORE_APP_SPLASH": [
+        {
+            "app_id": "198",
+            "app_name": "GB Version",
+            "app_packageName": "com.callhistory.callerinfo.callerscreen.anynumbercalldetail",
+            "app_logo": "https://silverappstudio.com/AppsManager/upload/app/AppLogo6493e2a21a787f9700adbb5577bedb2a.png",
+            "app_status": "Publish"
+        },
+        {
+            "app_id": "206",
+            "app_name": "Caller ID",
+            "app_packageName": "com.bankservice.numlocation.callerid",
+            "app_logo": "https://silverappstudio.com/AppsManager/upload/app/AppLogoaaf873eff4a5c7da64dfd075c6f703d5.png",
+            "app_status": "Publish"
+        },
+        {
+            "app_id": "207",
+            "app_name": "Screen Mirroring",
+            "app_packageName": "com.videocall.fakevideo.audiocall.girlchat",
+            "app_logo": "https://silverappstudio.com/AppsManager/upload/app/AppLogo93a84769d6b5c9b76bddda99bdb911ad.png",
+            "app_status": "Publish"
+        },
+        {
+            "app_id": "210",
+            "app_name": "Sim Owner Name",
+            "app_packageName": "com.siminfo.simussdcode.findsimdetail",
+            "app_logo": "https://silverappstudio.com/AppsManager/upload/app/AppLogoc819d7fe498600dea713c94862144779.png",
+            "app_status": "Publish"
+        },
+        {
+            "app_id": "211",
+            "app_name": "Broken Screen Prank",
+            "app_packageName": "com.prank.shake.crack.brokenscreen",
+            "app_logo": "https://silverappstudio.com/AppsManager/upload/app/AppLogo0a9687f1d1445d2bdf6deff4bcf952b3.png",
+            "app_status": "Publish"
+        },
+        {
+            "app_id": "212",
+            "app_name": "Instant Loan Guide",
+            "app_packageName": "com.personalloan.loantype.instantloan",
+            "app_logo": "https://silverappstudio.com/AppsManager/upload/app/AppLogod5b4c165c512497e315205c6f1782abc.png",
+            "app_status": "Publish"
+        }
+    ],
+    "MORE_APP_EXIT": [
+        {
+            "app_id": "198",
+            "app_name": "GB Version",
+            "app_packageName": "com.callhistory.callerinfo.callerscreen.anynumbercalldetail",
+            "app_logo": "https://silverappstudio.com/AppsManager/upload/app/AppLogo6493e2a21a787f9700adbb5577bedb2a.png",
+            "app_status": "Publish"
+        },
+        {
+            "app_id": "206",
+            "app_name": "Caller ID",
+            "app_packageName": "com.bankservice.numlocation.callerid",
+            "app_logo": "https://silverappstudio.com/AppsManager/upload/app/AppLogoaaf873eff4a5c7da64dfd075c6f703d5.png",
+            "app_status": "Publish"
+        },
+        {
+            "app_id": "207",
+            "app_name": "Screen Mirroring",
+            "app_packageName": "com.videocall.fakevideo.audiocall.girlchat",
+            "app_logo": "https://silverappstudio.com/AppsManager/upload/app/AppLogo93a84769d6b5c9b76bddda99bdb911ad.png",
+            "app_status": "Publish"
+        },
+        {
+            "app_id": "210",
+            "app_name": "Sim Owner Name",
+            "app_packageName": "com.siminfo.simussdcode.findsimdetail",
+            "app_logo": "https://silverappstudio.com/AppsManager/upload/app/AppLogoc819d7fe498600dea713c94862144779.png",
+            "app_status": "Publish"
+        },
+        {
+            "app_id": "211",
+            "app_name": "Broken Screen Prank",
+            "app_packageName": "com.prank.shake.crack.brokenscreen",
+            "app_logo": "https://silverappstudio.com/AppsManager/upload/app/AppLogo0a9687f1d1445d2bdf6deff4bcf952b3.png",
+            "app_status": "Publish"
+        },
+        {
+            "app_id": "212",
+            "app_name": "Instant Loan Guide",
+            "app_packageName": "com.personalloan.loantype.instantloan",
+            "app_logo": "https://silverappstudio.com/AppsManager/upload/app/AppLogod5b4c165c512497e315205c6f1782abc.png",
+            "app_status": "Publish"
+        }
+    ],
+    "EXTRA_DATA": {
+        "qurekapredmglurl": [
+            {
+                "url": "http://277.set.qureka.com/"
+            },
+            {
+                "url": "http://277.set.predchamp.com/"
+            },
+            {
+                "url": "https://11.go.mglgamez.com/"
+            }
+        ]
+    }
+}
